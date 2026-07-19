@@ -36,14 +36,6 @@
 
 ---
 
-### 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianoCaceresSmoler&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/mariano-caceres-smoler/">
